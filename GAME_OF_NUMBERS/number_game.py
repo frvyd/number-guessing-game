@@ -1,4 +1,4 @@
-# Aklından bi sayı tut oyunu
+# keep a number in your mind
 
 import random as rnd
 
